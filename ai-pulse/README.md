@@ -11,7 +11,7 @@ AI Pulse is a Chrome extension that brings the latest AI stories and discussions
 
 ## Chrome Web Store
 
-*Add the public Chrome Web Store link here.*
+https://chromewebstore.google.com/detail/ai-pulse/ccnmgfhpcgoamcofihhaphmnkfkkpkop
 
 ## Status
 
